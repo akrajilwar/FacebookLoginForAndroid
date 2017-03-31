@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Facebook Login</string>
+
+    <string name="facebook_app_id">YOUR_API_KEY</string>
+
+    <string name="fb_login_protocol_scheme">fbYOUR_API_KEY</string>
+
+    <!-- Change YOUR_API_KEY with your facebook id -->
+</resources>
